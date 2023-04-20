@@ -1,2 +1,2 @@
-# SS-BSN
-This is an official PyTorch release of the paper "SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity"
+# SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity
+Young-Joo Han, Ha-Jin Yu, "SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity", IJCAI, 2023
