@@ -1,5 +1,5 @@
 # SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity
-Young-Joo Han and Ha-Jin Yu, "SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity", IJCAI, 2023.
+Young-Joo Han and Ha-Jin Yu, "SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity", IJCAI, 2023. [Arxiv](https://arxiv.org/abs/2305.09890)
 
 ---
 ## Abstract
