@@ -89,3 +89,23 @@ Please refer our paper for more detailed results.
 ## Acknowledgement
 
 The codes are based on [AP-BSN](https://github.com/wooseoklee4/AP-BSN). Thanks for the great works.
+
+
+---
+## BibTex
+```
+@inproceedings{ijcai2023p89,
+  title     = {SS-BSN: Attentive Blind-Spot Network for Self-Supervised Denoising with Nonlocal Self-Similarity},
+  author    = {Han, Young-Joo and Yu, Ha-Jin},
+  booktitle = {Proceedings of the Thirty-Second International Joint Conference on
+               Artificial Intelligence, {IJCAI-23}},
+  publisher = {International Joint Conferences on Artificial Intelligence Organization},
+  editor    = {Edith Elkind},
+  pages     = {800--809},
+  year      = {2023},
+  month     = {8},
+  note      = {Main Track},
+  doi       = {10.24963/ijcai.2023/89},
+  url       = {https://doi.org/10.24963/ijcai.2023/89},
+}
+```
